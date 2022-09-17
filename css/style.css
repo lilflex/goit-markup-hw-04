@@ -9,6 +9,7 @@
   --background-dark-color: #2f303a;
   --team-background: #f5f4fa;
   --socials-icon-color: #AFB1B8;
+  --main-header-bgc: #C4C4C4;
 }
 
 body {
@@ -130,6 +131,7 @@ li {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: var(--main-header-bgc);
 }
 .main-header {
   font-weight: 900;
